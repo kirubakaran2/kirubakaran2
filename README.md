@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber sec
 - 🌱 I’m currently learning cloud sec,penetration testing & web development 
 - 📫 How to reach me 
-- 
+- mail: kirubakaran003k2@gmail.com
 
 <!---
 kirubakaran2/kirubakaran2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
