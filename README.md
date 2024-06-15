@@ -1,22 +1,30 @@
-👋 Hi, I’m Kirubakaran.N
+File  Action  Edit  View  Help
 
-👀 I’m interested in Creative Web Development
+┌──(kirubakaran㉿GitHub)-[~]
+└─$ cat about-me
 
-🌱 I’m currently learning:
+⁍ Name : Kirubakaran
+⁍ Profession : Penetration Tester
+⁍ Education : Final Year Student, Dept. of IOT & Cybersecurity, Blockchain @ MIT-PONDICHERRY
 
-Three Js
-React Js
-Web Development
-💻 I’m passionate about:
+: Learning :
+==> Source Code Analysis (White Box Testing)
+==> Black Box Testing (a lil' bit)
+==> Web3.0 -> Blockchain -> Ethereum -> Smart Contracts -> Solidity
+==> Smart Contract Security
+==> OWASP Top 10
+==> CompTIA A+
 
-Full Stack Development
-3D Animation
-Web Development
-📫 How to reach me:
+: Certification Currently Preparing for :
+==> OSWE - Offensive Security Web Expert (AWAE - Advanced Web Attacks and Exploitations)
+==> Google Cybersecurity
+==> Cisco Cybersecurity Essentials
+==> Ethical Hacking: Cryptography (LinkedIn)
 
-Email: kirubakaran003k2@gmail.com
+: Achievements :
+==> Information disclosure bug reported in the Reserve Bank of India (RBI)
+==> Sensitive information leaks reported in a major blockchain-related company
 
-<!---
-kirubakaran2/kirubakaran2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+: Working on :
+==> Creating a safer world through cybersecurity initiatives
+==> Bug bounty hunting to identify and mitigate vulnerabilities in web applications and systems
